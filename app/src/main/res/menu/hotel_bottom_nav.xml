@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/view"
+        android:title="View"
+        android:icon = "@drawable/ic_view"
+        />
+    <item
+        android:id="@+id/orders"
+        android:title="Orders"
+        android:icon="@drawable/ic_order"
+        />
+    <item
+        android:id="@+id/send_request"
+        android:title="Send Request"
+        android:icon="@drawable/ic_req"
+        />
+    <item
+        android:id="@+id/notifications"
+        android:title="Notifications"
+        android:icon="@drawable/ic_notification"
+        />
+    <item
+        android:id="@+id/logout"
+        android:title="Log Out"
+        android:icon="@drawable/ic_logout"
+        />
+
+</menu>
